@@ -4,7 +4,7 @@ setup(
     name="ai_pricing_intelligence",
     version="0.1.0",
     author="Prince Soni",
-    author_email="your_email@example.com",
+    author_email="princesoni8795@gmail.com",
     description="AI-Powered Pricing Intelligence & Dynamic Revenue Optimization Platform",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
